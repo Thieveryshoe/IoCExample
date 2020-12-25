@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dzv/kwepKOntb0tpwKEX17dl1Oj83Y//7eLfGCUkap8jUJZFI4KbV2voBBZQAINeaJHb+CgxtJ6yEimgDVTEfw==",
+  "success": true,
+  "projectFilePath": "S:\\Projects\\IoCExample\\IoCExample\\IoCExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnj\\.nuget\\packages\\baselinetypediscovery\\1.1.0\\baselinetypediscovery.1.1.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\lamar\\5.0.0\\lamar.5.0.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\lamarcodegeneration\\3.0.0\\lamarcodegeneration.3.0.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\johnj\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
