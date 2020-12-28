@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IoCExample
+namespace IoCExampleLibrary
 {
     public interface IApp
     {

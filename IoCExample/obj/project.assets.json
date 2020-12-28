@@ -179,6 +179,16 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "IoCExampleLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/IoCExampleLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IoCExampleLibrary.dll": {}
+        }
       }
     }
   },
@@ -881,10 +891,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "IoCExampleLibrary/1.0.0": {
+      "type": "project",
+      "path": "../IoCExampleLibrary/IoCExampleLibrary.csproj",
+      "msbuildProject": "../IoCExampleLibrary/IoCExampleLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "IoCExampleLibrary >= 1.0.0",
       "Lamar >= 5.0.0"
     ]
   },
@@ -894,9 +910,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Projects\\IoCExample\\IoCExample\\IoCExample.csproj",
-      "projectName": "IoCExample",
-      "projectPath": "S:\\Projects\\IoCExample\\IoCExample\\IoCExample.csproj",
+      "projectUniqueName": "S:\\Projects\\IoCExample\\IoCExample\\Console.csproj",
+      "projectName": "Console",
+      "projectPath": "S:\\Projects\\IoCExample\\IoCExample\\Console.csproj",
       "packagesPath": "C:\\Users\\johnj\\.nuget\\packages\\",
       "outputPath": "S:\\Projects\\IoCExample\\IoCExample\\obj\\",
       "projectStyle": "PackageReference",
@@ -914,7 +930,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "S:\\Projects\\IoCExample\\IoCExampleLibrary\\IoCExampleLibrary.csproj": {
+              "projectPath": "S:\\Projects\\IoCExample\\IoCExampleLibrary\\IoCExampleLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

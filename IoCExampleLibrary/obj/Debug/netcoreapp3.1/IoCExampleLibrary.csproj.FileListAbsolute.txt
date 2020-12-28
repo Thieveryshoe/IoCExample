@@ -1,0 +1,9 @@
+S:\Projects\IoCExample\IoCExampleLibrary\obj\Debug\netcoreapp3.1\IoCExampleLibrary.csprojAssemblyReference.cache
+S:\Projects\IoCExample\IoCExampleLibrary\obj\Debug\netcoreapp3.1\IoCExampleLibrary.AssemblyInfoInputs.cache
+S:\Projects\IoCExample\IoCExampleLibrary\obj\Debug\netcoreapp3.1\IoCExampleLibrary.AssemblyInfo.cs
+S:\Projects\IoCExample\IoCExampleLibrary\obj\Debug\netcoreapp3.1\IoCExampleLibrary.csproj.CoreCompileInputs.cache
+S:\Projects\IoCExample\IoCExampleLibrary\bin\Debug\netcoreapp3.1\IoCExampleLibrary.deps.json
+S:\Projects\IoCExample\IoCExampleLibrary\bin\Debug\netcoreapp3.1\IoCExampleLibrary.dll
+S:\Projects\IoCExample\IoCExampleLibrary\bin\Debug\netcoreapp3.1\IoCExampleLibrary.pdb
+S:\Projects\IoCExample\IoCExampleLibrary\obj\Debug\netcoreapp3.1\IoCExampleLibrary.dll
+S:\Projects\IoCExample\IoCExampleLibrary\obj\Debug\netcoreapp3.1\IoCExampleLibrary.pdb

@@ -1,6 +1,6 @@
-﻿using Lamar;
+﻿using IoCExampleLibrary;
 
-namespace IoCExample
+namespace Console
 {
     internal class Program
     {
@@ -12,22 +12,11 @@ namespace IoCExample
 
             //app.Execute();
 
-            var container = BuildContainer();
+            var container = Bootstrapper.Bootstrap();
 
             var app = container.GetInstance<IApp>();
 
             app.Execute();
-        }
-
-        private static Container BuildContainer()
-        {
-            //TODO refactor this into own IoC class
-            return new Container(c =>
-                c.Scan(s =>
-                {
-                    s.TheCallingAssembly();
-                    s.WithDefaultConventions();
-                }));
         }
     }
 }

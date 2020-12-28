@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCExample", "IoCExample\IoCExample.csproj", "{2CA19ECD-5D0E-4E04-8DCA-0AC866115577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console", "IoCExample\Console.csproj", "{2CA19ECD-5D0E-4E04-8DCA-0AC866115577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCExampleLibrary", "IoCExampleLibrary\IoCExampleLibrary.csproj", "{1D5995CE-B397-4EDF-B0F1-536FC817A94C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2CA19ECD-5D0E-4E04-8DCA-0AC866115577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CA19ECD-5D0E-4E04-8DCA-0AC866115577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CA19ECD-5D0E-4E04-8DCA-0AC866115577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5995CE-B397-4EDF-B0F1-536FC817A94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5995CE-B397-4EDF-B0F1-536FC817A94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5995CE-B397-4EDF-B0F1-536FC817A94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5995CE-B397-4EDF-B0F1-536FC817A94C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

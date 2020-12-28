@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dzv/kwepKOntb0tpwKEX17dl1Oj83Y//7eLfGCUkap8jUJZFI4KbV2voBBZQAINeaJHb+CgxtJ6yEimgDVTEfw==",
+  "dgSpecHash": "/2Rn4FZxAofz2NHT5jBrbh6YYZK7tkKLDCo1IklTvQbQVSkjCWn1o0OSCXclxu7ljPKoh/5gzCRq8tjHHDpxYg==",
   "success": true,
-  "projectFilePath": "S:\\Projects\\IoCExample\\IoCExample\\IoCExample.csproj",
+  "projectFilePath": "S:\\Projects\\IoCExample\\IoCExample\\Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnj\\.nuget\\packages\\baselinetypediscovery\\1.1.0\\baselinetypediscovery.1.1.0.nupkg.sha512",
     "C:\\Users\\johnj\\.nuget\\packages\\lamar\\5.0.0\\lamar.5.0.0.nupkg.sha512",
