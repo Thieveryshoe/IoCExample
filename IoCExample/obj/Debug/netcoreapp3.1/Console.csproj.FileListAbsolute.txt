@@ -1,7 +1,6 @@
 S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
 S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
 S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
-S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
 S:\Projects\IoCExample\IoCExample\bin\Debug\netcoreapp3.1\Console.exe
 S:\Projects\IoCExample\IoCExample\bin\Debug\netcoreapp3.1\Console.deps.json
 S:\Projects\IoCExample\IoCExample\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
@@ -18,3 +17,5 @@ S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.csproj.CopyCom
 S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.dll
 S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.pdb
 S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
+S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.csproj.AssemblyReference.cache
+S:\Projects\IoCExample\IoCExample\obj\Debug\netcoreapp3.1\Console.GeneratedMSBuildEditorConfig.editorconfig
